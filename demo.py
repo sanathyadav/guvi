@@ -4,7 +4,6 @@ print(k)
 
 if k == 'a':
     print("Done")
-else:
-    print("Not Done")
+else:one")
     
 print("hello")
