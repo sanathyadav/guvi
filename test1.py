@@ -12,3 +12,4 @@ def week(i):
 
 i=input()
 print("hello")
+print("Hi")
