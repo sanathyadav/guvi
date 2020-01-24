@@ -11,3 +11,4 @@ def week(i):
         return switcher.get(i,"Invalid day of week")
 
 i=input()
+print("hello")
